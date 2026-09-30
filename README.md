@@ -32,7 +32,7 @@ An interactive, open-source graphical user interface (GUI) and numerical simulat
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/cantera-1d-flame-studio.git
+git clone https://github.com/mohit-79/cantera-1d-flame-studio.git
 cd cantera-1d-flame-studio
 ```
 
