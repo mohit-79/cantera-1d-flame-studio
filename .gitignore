@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Checkpoints and outputs (optional, keep if you want clean repo)
+.streamlit/
+flame_cache/
+test_eq.png
